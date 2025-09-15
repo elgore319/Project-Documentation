@@ -5,3 +5,7 @@ I designed the class relationship to be connected through a single abstract clas
 
 Part 2. 
 I added the Tools subclass to help scale the amount of possibilities for extensions of the Item abstract class. They help scaling by showing the different ways each method can be overridden to do any desired actions for the subclass
+
+
+AI Reflection:
+I did not use ai for this project
